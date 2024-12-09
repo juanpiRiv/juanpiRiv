@@ -7,7 +7,7 @@
 
 ## Mi Trayectoria como profesional
 
-<img align="right" alt="cubo" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21hbDVrdzY0NTdrcjBoaDYzbTk3Z29nMG80eWhic2d2M241ZHNodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif?raw=true">
+<img align="right" alt="cubo" width="390" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21hbDVrdzY0NTdrcjBoaDYzbTk3Z29nMG80eWhic2d2M241ZHNodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif?raw=true">
 
 ---
 <p style="text-align: justify; color:#666">
