@@ -57,11 +57,6 @@
 - 📚 **Tecnologías:** React,  Next.js, Node.js ,Spring Boot, Python, MySQL, GitHub, Linux, entre otras.  
 - 📫 Contáctame a través de **juanpirivero015@gmail.com**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanPabloDev&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=blueberry" alt="GitHub Stats">
-</p>
-
-
 
 
 # 📊 GitHub Stats:
